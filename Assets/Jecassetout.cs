@@ -16,7 +16,5 @@ public class Jecassetout : MonoBehaviour
         
     }
 
-    public void Anthony() 
-    { 
-    }
+    
 }
