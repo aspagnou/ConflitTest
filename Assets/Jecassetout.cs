@@ -13,4 +13,7 @@ public class Jecassetout : MonoBehaviour
     {
         
     }
+
+    //j'aime la destruction honnete des biens
+
 }
